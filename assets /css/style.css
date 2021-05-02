@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/* Start user interface and selections */
+.selection-header {
+    font-size: 25px;
+    text-align: center;
+    color: black;
+}
+
+.selection-box {
+    border-radius: 10px;
+    font-size: 25px;
+    border: none;
+    margin-bottom: 17px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 1.0);
+}
+
+.submit {
+    font-size: 25px;
+    background-color: #C7EBF0;
+    border-radius: 7px;
+    margin-top: 10px;
+    border: black 1px none;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 1.0);
+}
+
+.city-submit {
+    font-size: 15px;
+    background-color: #f39b68;
+    border-radius: 7px;
+    margin-bottom: 17px;
+    border: none;
+    padding: 12px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 1.0);
+    color: black;
+}
+/* End user interface and selections */
+
+/* start functional styles */
+.flex-direction-row{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+/* End functional styles */
+
+.padding-small{
+    padding: 5px;
+}
+
+/* start design styles */
+.background-color-primary{
+    background-color: #F7F7F2;
+}
+
+.header {
+    font-size: 100px;
+    font-style: italic;
+    color: #fff;
+    background: linear-gradient(70deg, #8EE3EF, #AEF3E7, #E89005, #EC7505);
+    text-align: center;
+}
+
+.text-styles-primary{
+    font-size: 26px;
+    text-align: center;
+    color: orange;
+}
+
+.text-styles-secondary{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+.shadows-primary{
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 1.0);
+}
+
+.border-boxes {
+    margin-top: 15px;
+    border-top: 3px black solid;
+    border-radius: 10px;
+}
+/* End design styles */
+
+
