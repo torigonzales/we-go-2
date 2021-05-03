@@ -18,7 +18,7 @@ We - Go is a tourism application that allows the user to search the weather, poi
 
 
 ## Introduction 
-This week we were challenged to create our first project! Our group decided to create a tourism applicstion! 
+This week we were challenged to create our first project! Our group decided to create a tourism application! 
 
 ---
 
